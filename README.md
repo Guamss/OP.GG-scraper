@@ -1,3 +1,5 @@
+#DEPRECATED !!!
+
 # What is it ?
 An OPGG scrapper to know some info about players on league of legends
 
